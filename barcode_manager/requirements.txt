@@ -1,0 +1,6 @@
+PyQt5>=5.15
+python-barcode>=0.14
+qrcode>=7.3
+Pillow>=9.0
+pdf417gen>=0.7
+pyzbar>=0.1.9
